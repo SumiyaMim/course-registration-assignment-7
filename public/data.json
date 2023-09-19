@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to C Programming",
+    "details": "Learn C programming, including syntax, data types, and basic programming concepts.",
+    "image": "https://i.ibb.co/7RZxL5q/Rectangle-2-2.png",
+    "price": 15000,
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "name": "Introduction to Algorithms",
+    "details": "Explore key algorithmic concepts, problem-solving, and algorithm analysis techniques in this course.",
+    "image": "https://i.ibb.co/1Xcjjpw/Rectangle-2-3.png",
+    "price": 25000,
+    "credit": 2
+  },
+  {
+    "id": 3,
+    "name": "Introduction to C++ for DSA",
+    "details": "Master C++ basics for Data Structures and Algorithms with practical coding examples.",
+    "image": "https://i.ibb.co/V2bpVqC/Rectangle-2-4.png",
+    "price": 10000,
+    "credit": 10
+  },
+  {
+    "id": 4,
+    "name": "Basic Data Structures",
+    "details": "Get a solid grasp of essential data structures, including arrays, linked lists, and trees.",
+    "image": "https://i.ibb.co/FzXYPFg/Rectangle-3.png",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 5,
+    "name": "Introduction to OOP Python",
+    "details": "Learn Python's Object-Oriented Programming principles with practical applications and illustrative examples.",
+    "image": "https://i.ibb.co/L874MKj/Rectangle-2.png",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 6,
+    "name": "Software Engineering",
+    "details": "Comprehensive software engineering process, from requirements gathering to testing and deployment.",
+    "image": "https://i.ibb.co/yfCxzPS/Rectangle-2-5.png",
+    "price": 23000,
+    "credit": 2
+  },
+  {
+    "id": 7,
+    "name": "AWS, Cloud Computing",
+    "details": "Explore Amazon Web Services (AWS) and the fundamentals of cloud computing infrastructure.",
+    "image": "https://i.ibb.co/j6vdFNN/Rectangle-3-1.png",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 8,
+    "name": "Database (MySQL)",
+    "details": "Discover MySQL databases, including SQL queries, database design, and data management.",
+    "image": "https://i.ibb.co/8j7mcZm/Rectangle-2-1.png",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 9,
+    "name": "Problem-Solving Part",
+    "details": "Boost problem-solving skills with challenging coding problems and algorithmic thinking exercises.",
+    "image": "https://i.ibb.co/SNFtjhq/Rectangle-2-6.png",
+    "price": 23000,
+    "credit": 2
+  }
+]
